@@ -71,3 +71,17 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](LICENSE).
+
+## File - Multer
+
+https://www.youtube.com/watch?v=AqNX5bq0P00
+
+```bash
+npm i -D @types/multer
+```
+
+## Validation
+
+```bash
+npm i --save class-validator class-transformer
+```
